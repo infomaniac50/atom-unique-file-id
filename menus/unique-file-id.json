@@ -1,0 +1,26 @@
+{
+  "context-menu": {
+    "atom-text-editor": [
+      {
+        "label": "Generate Unique File ID",
+        "command": "unique-file-id:generate"
+      }
+    ]
+  },
+  "menu": [
+    {
+      "label": "Packages",
+      "submenu": [
+        {
+          "label": "Unique File ID",
+          "submenu": [
+            {
+              "label": "Generate",
+              "command": "unique-file-id:generate"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
