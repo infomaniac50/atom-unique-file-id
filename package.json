@@ -7,7 +7,7 @@
   "activationCommands": {
     "atom-workspace": "unique-file-id:generate"
   },
-  "repository": "https://github.com/infomaniac50/unique-file-id",
+  "repository": "https://github.com/infomaniac50/atom-unique-file-id",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
