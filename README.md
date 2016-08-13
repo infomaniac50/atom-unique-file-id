@@ -19,10 +19,10 @@ Go ahead, try to select README.md without using the keyboard or moving the mouse
 ```
 
 **Raw Text Insert**
-![Raw Text Insert](assets/raw-text-insert.png)
+![Raw Text Insert](https://github.com/infomaniac50/atom-unique-file-id/raw/master/assets/raw-text-insert.png)
 
 **Line Comments Toggled**
-![Editor Toggle Line Comments](assets/editor_toggle-line-comments.png)
+![Editor Toggle Line Comments](https://github.com/infomaniac50/atom-unique-file-id/raw/master/assets/editor_toggle-line-comments.png)
 
 ## Security Caveats ##
 
